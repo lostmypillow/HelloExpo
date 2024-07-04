@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "baseUrl": "/HelloExpo"
+    },
     "name": "StickerSmash",
     "slug": "StickerSmash",
     "version": "1.0.0",
